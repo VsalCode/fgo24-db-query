@@ -1,2 +1,5 @@
 filter.sql
 join.sql
+auto_increment.sql
+constraint.sql
+group_aggregation.sql
